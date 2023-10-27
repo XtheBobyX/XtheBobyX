@@ -1,17 +1,24 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm Boby</h1>
-    <h3 align="center">I am a passionate developer in constant learning and evolution. Here you will find a variety of projects I have worked on. Feel free to explore my code and contributions, I hope you find something interesting. If you have any questions or suggestions feel free to contact me.</h3>
+<a href="https://imgur.com/ldxuZOm"><img src="https://i.imgur.com/ldxuZOm.png" title="Boby Nosa" width="2000" height="269"/></a>   
+    <h1 align="center">Hi there 👋, I'm Boby</h1>
+    <h4 align="center">I am a passionate developer in constant learning and evolution. If you have any questions or suggestions feel free to contact me.</h4>
 </div>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
 
+-💻 About me:
 
-💻 About me:
+-🔭 I am currently a student of **Web Development**
+  
+-🌱 I’m currently learning Java,Xml,MySQL
 
-🌱 I’m currently learning Java,Xml,MySQL
+-🔄 Routine : Eat - Sleep - Code - Repeat
 
-👯 I’m looking to collaborate on to improve and gain experience
+-👯 I’m looking to collaborate on to improve and gain experience
 
-📫 How to reach me **Botabor@educacion.navarra.es**
+-📫 How to reach me **Botabor@educacion.navarra.es**
+
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
@@ -19,6 +26,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" title="github" alt="github" width="40" height="40"
 
  
 </div>
@@ -28,6 +36,6 @@
 
 ### 📊My Stats :
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=XtheBobyX&show_icons=true&theme=radical)
-
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=XtheBobyX&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XtheBobyX&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
