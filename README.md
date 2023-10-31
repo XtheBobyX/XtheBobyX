@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<a href="https://imgur.com/ldxuZOm"><img src="https://i.imgur.com/ldxuZOm.png" title="Boby Nosa" width="2000" height="269"/></a>   
+<a href="https://imgur.com/ldxuZOm"><img src="https://i.imgur.com/ldxuZOm.png" title="Boby Nosa" width="600" height="269"/></a>   
     <h1 align="center">Hi there 👋, I'm Boby</h1>
     <h4 align="center">I am a passionate developer in constant learning and evolution. If you have any questions or suggestions feel free to contact me.</h4>
 </div>
@@ -37,5 +37,4 @@
 ### 📊My Stats :
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=XtheBobyX&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XtheBobyX&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
