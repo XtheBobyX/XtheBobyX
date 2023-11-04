@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<a href="https://imgur.com/kXzVcTl"> <img src="https://i.imgur.com/kXzVcTl.jpg" width="900" height="550"/></a> 
+<a href="https://imgur.com/kXzVcTl"> <img src="https://i.imgur.com/kXzVcTl.jpg" width="490" height="490"/></a> 
     <h1 align="center">Hi there 👋, I'm Boby</h1>
     <h4 align="center">I am a passionate developer in constant learning and evolution. If you have any questions or suggestions feel free to contact me.</h4>
 </div>
